@@ -1,0 +1,6 @@
+Coloque aqui os ficheiros web da Gotham com estes nomes:
+Gotham-Light.woff2
+Gotham-Book.woff2
+Gotham-Medium.woff2
+Gotham-Bold.woff2
+A página passa a usá-los automaticamente.
